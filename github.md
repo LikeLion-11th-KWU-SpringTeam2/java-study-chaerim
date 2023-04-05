@@ -43,7 +43,7 @@ git checkout <브랜치명> #이동
 git branch #해당 브랜치 목록 확인
 
 #Step3 - 합치기
-git merge <브랜치명>
+git merge <브랜치xdd명>
 #conflict 발생시 꺽쇠 부분 지우고 다시 commit 후 merge
 ```
 

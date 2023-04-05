@@ -42,14 +42,16 @@ git checkout -b <브랜치명> #생성하며 이동
 git checkout <브랜치명> #이동
 git branch #해당 브랜치 목록 확인
 
-#Step3 - 합치기
-<<<<<<< HEAD
-git merge <브랜치xdd명>
-=======
-git merge <브랜치asdfsdf명>
->>>>>>> feature-1
+#Step3 - 합치기ze
+git merge <브랜치명>
 #conflict 발생시 꺽쇠 부분 지우고 다시 commit 후 merge
 ```
 
-![git](clone/account.PNG)
-![git](checkout/account.PNG)
+## 4. Github으로 협업하기 실습
+
+![git](img/clone.PNG)
+![git](img/account.PNG)
+![git](img/merge.PNG)
+![git](img/merging.PNG)
+
+## 5. Git GUI 활용하기

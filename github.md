@@ -20,6 +20,8 @@ git push -u origin main
 
 ```
 
+<br>
+
 ## 2. Github에 소스 반영 실습
 
 1. 원격저장소 주소 생성을 위해 Github에서 새로운 저장소 만들기
@@ -32,6 +34,8 @@ git push -u origin main
    ![git](img/remote.PNG)
 3. main브랜치에 로컬 브랜치 내용 push하기 (이 때 Github 인증창 뜨면 인증하기, 비번엔 token입력)
    ![git](img/account.PNG)
+
+<br>
 
 ## 3. Github으로 협업하기
 
@@ -49,6 +53,8 @@ git merge <브랜치명>
 #conflict 발생시 꺽쇠 부분 지우고 다시 commit 후 merge
 ```
 
+<br>
+
 ## 4. Github으로 협업하기 실습
 
 ![git](img/clone.PNG)
@@ -56,4 +62,10 @@ git merge <브랜치명>
 ![git](img/merge.PNG)
 ![git](img/merging.PNG)
 
+<br>
+
 ## 5. Git GUI 활용하기
+
+- 그래픽 유저 인터페이스 활용
+- git fork 프로그램 활용
+- vscode에선 gitLens 설치

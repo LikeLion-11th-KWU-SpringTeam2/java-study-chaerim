@@ -23,9 +23,11 @@ git push -u origin main
 ## 2. Github에 소스 반영 실습
 
 1. 원격저장소 주소 생성을 위해 Github에서 새로운 저장소 만들기
+
    ![git](img/New.PNG)
    ![git](img/createRepo.PNG)
    ![git](img/doneRepo.PNG)
+
 2. 내 로컬저장소와 원격저장소 주소 연결하기
    ![git](img/remote.PNG)
 3. main브랜치에 로컬 브랜치 내용 push하기 (이 때 Github 인증창 뜨면 인증하기, 비번엔 token입력)
@@ -42,7 +44,7 @@ git checkout -b <브랜치명> #생성하며 이동
 git checkout <브랜치명> #이동
 git branch #해당 브랜치 목록 확인
 
-#Step3 - 합치기ze
+#Step3 - 합치기
 git merge <브랜치명>
 #conflict 발생시 꺽쇠 부분 지우고 다시 commit 후 merge
 ```

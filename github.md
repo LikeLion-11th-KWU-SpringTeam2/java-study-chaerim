@@ -28,9 +28,10 @@ git push -u origin main
 
    ![git](img/New.PNG)
    ![git](img/doneRepo.PNG)
-
+<br>
 2. 내 로컬저장소와 원격저장소 주소 연결하기
    ![git](img/remote.PNG)
+<br>
 3. main브랜치에 로컬 브랜치 내용 push하기 (이 때 Github 인증창 뜨면 인증하기, 비번엔 token입력)
    ![git](img/account.PNG)
 

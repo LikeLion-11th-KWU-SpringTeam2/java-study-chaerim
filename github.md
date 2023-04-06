@@ -27,7 +27,6 @@ git push -u origin main
 1. 원격저장소 주소 생성을 위해 Github에서 새로운 저장소 만들기
 
    ![git](img/New.PNG)
-   ![git](img/createRepo.PNG)
    ![git](img/doneRepo.PNG)
 
 2. 내 로컬저장소와 원격저장소 주소 연결하기

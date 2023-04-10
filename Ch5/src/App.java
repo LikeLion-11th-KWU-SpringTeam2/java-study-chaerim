@@ -208,6 +208,9 @@ public class App {
         // 4. 논리연산자 &&, ||, !
         System.out.println(num1 > num3 && num3 < num4);
 
+        // 5. 증감연산자 ++ --
+        num3++; // num3 = num3 + 1
+
     }
 
 }

@@ -13,7 +13,7 @@
 #origin과 원격저장소 주소를 매칭!
 git remote add origin <원격저장소 주소>
 
-#Step2 -
+#Step2 - push하기
 git push -u origin main
 #main브랜치를 origin에 push한다. u옵션을 주면 브랜치맵핑을 계속하려는 옵션으로 나중에 git push만 써도 올릴 수 있다.
 #push하면 처음에는 계정정보 인증하고 사용하자.
@@ -27,12 +27,14 @@ git push -u origin main
 1. 원격저장소 주소 생성을 위해 Github에서 새로운 저장소 만들기
 
    ![git](img/New.PNG)
-   ![git](img/createRepo.PNG)
    ![git](img/doneRepo.PNG)
-
+<br>
 2. 내 로컬저장소와 원격저장소 주소 연결하기
+
    ![git](img/remote.PNG)
+<br>
 3. main브랜치에 로컬 브랜치 내용 push하기 (이 때 Github 인증창 뜨면 인증하기, 비번엔 token입력)
+
    ![git](img/account.PNG)
 
 <br>
